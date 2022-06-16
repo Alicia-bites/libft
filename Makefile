@@ -6,7 +6,7 @@
 #    By: amarchan <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/11/30 09:51:13 by amarchan          #+#    #+#              #
-#    Updated: 2021/12/10 16:53:10 by amarchan         ###   ########.fr        #
+#    Updated: 2022/06/16 11:14:29 by amarchan         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -27,6 +27,7 @@ FILES =	ft_isalpha \
 	ft_memmove \
 	ft_memchr \
 	ft_memcmp \
+	ft_strcmp \
 	ft_strlen \
 	ft_strlcpy \
 	ft_strlcat \
