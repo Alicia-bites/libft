@@ -6,7 +6,7 @@
 #    By: amarchan <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/11/30 09:51:13 by amarchan          #+#    #+#              #
-#    Updated: 2022/06/16 11:14:29 by amarchan         ###   ########.fr        #
+#    Updated: 2022/06/16 11:24:35 by amarchan         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -55,6 +55,12 @@ FILES =	ft_isalpha \
 	ft_putstr_fd \
 	ft_putendl_fd \
 	ft_putnbr_fd \
+	ft_isspace \
+	ft_rstrip \
+	ft_lstrip \
+	ft_strip \
+	isinteger \
+	ft_atoll \
 	
 FILES_B = 	ft_lstnew \
 		ft_lstadd_front \
